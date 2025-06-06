@@ -40,6 +40,8 @@ venv\Scripts\activate
 
 # macOS/Linux
 python3 -m venv venv
+#Demo 
+Here you can watch teh demo video https://youtu.be/3Qc8C_WyFss
 source venv/bin/activate
 
 Add your openAi key 
